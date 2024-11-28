@@ -1,4 +1,4 @@
-module dev.azure.com/commify/Titan_Framework_Shared/_git/terratooling
+module github.com/henrywhitakercommify/terratooling
 
 go 1.22.1
 
